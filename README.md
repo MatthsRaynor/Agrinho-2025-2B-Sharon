@@ -67,7 +67,7 @@ Todos os arquivos seguem a estrutura recomendada pelo concurso, com HTML e CSS s
 
 ## 👩‍💻 Autoria
 
-**Sharon **  
+**Sharon Negrão Dourado**  
 Estudante da 2ª série do Ensino Médio  
 Colégio Estadual Professor Malvino de Oliveira
 Professora: Gabrieli Rizzi
